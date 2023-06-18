@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AYUSH-MUKATI.github.io/color-picker/static/css/main.e6c13ad2.css",
-    "main.js": "/AYUSH-MUKATI.github.io/color-picker/static/js/main.cda3a10f.js",
-    "index.html": "/AYUSH-MUKATI.github.io/color-picker/index.html",
-    "main.e6c13ad2.css.map": "/AYUSH-MUKATI.github.io/color-picker/static/css/main.e6c13ad2.css.map",
-    "main.cda3a10f.js.map": "/AYUSH-MUKATI.github.io/color-picker/static/js/main.cda3a10f.js.map"
+    "main.css": "/color-picker/static/css/main.e6c13ad2.css",
+    "main.js": "/color-picker/static/js/main.cda3a10f.js",
+    "index.html": "/color-picker/index.html",
+    "main.e6c13ad2.css.map": "/color-picker/static/css/main.e6c13ad2.css.map",
+    "main.cda3a10f.js.map": "/color-picker/static/js/main.cda3a10f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
